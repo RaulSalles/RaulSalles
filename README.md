@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Raul Abreu!
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
+- ❤️ Python e SQL
 
 <div>
   <a href="https://github.com/RaulSalles">
@@ -10,13 +8,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulSalles&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Raul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Raul-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Raul-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Raul-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Raul-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raul-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Raul-Python" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png">
+  <img align="center" alt="Raul-SQL" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/14801979961548330928-512.png">
+  <img align="center" alt="Raul-HTML" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png">
+  <img align="center" alt="Raul-CSS" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png">
   <img align="center" alt="Raul-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Raul-plusplus" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/9096637371536208089-512.png">
 </div>  
 
 ##
