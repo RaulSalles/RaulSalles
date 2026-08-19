@@ -1,12 +1,8 @@
 # 👩🏻‍💻 Raul Guilherme Gomes de Abreu Whitaker Salles
 
-🎓 **Engenheiro da Computação** | Graduando em **Análise e Desenvolvimento de Sistemas**
+Sou Engenheiro da Computação e atualmente graduando em Análise e Desenvolvimento de Sistemas (ADS), com experiência na área de tecnologia desde 2020. Atualmente, atuo como Técnico de Desenvolvimento de Sistemas na Ecil.
 
-💻 **Desenvolvimento de Software | Suporte Técnico | Automação | Integração Hardware/Software**
-
-Sou profissional de tecnologia com experiência desde 2020, atualmente atuando como **Técnico de Desenvolvimento de Sistemas** na Ecil.
-
-Minha trajetória começou no suporte técnico e evoluiu para o desenvolvimento de sistemas, permitindo que eu construísse experiência tanto na **resolução de problemas** quanto na **criação de soluções de software**.
+Minha trajetória começou no suporte técnico e evoluiu para o desenvolvimento de sistemas, permitindo que eu construísse experiência tanto na resolução de problemas quanto na criação de soluções de software.
 
 Tenho interesse em continuar evoluindo na área de tecnologia, especialmente em desenvolvimento, suporte técnico, automação e soluções que conectem software, dados e hardware.
 
